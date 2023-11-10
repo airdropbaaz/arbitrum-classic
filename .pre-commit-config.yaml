@@ -1,5 +1,4 @@
-exclude: |
-  (?x)(
+exclude: 
       ^packages/arb-avm-cpp/external/keccak/|
       ^packages/arb-bridge-eth/installed_contracts/
   )
